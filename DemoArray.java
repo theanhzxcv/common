@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Array {
     public static void addNewValue(int[] arr, int n, int pos, int val) {
         int[] newArr = new int[n + 1];
